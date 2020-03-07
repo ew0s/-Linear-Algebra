@@ -1,2 +1,2 @@
-# -Linear-Algebra
-First Semester 
+# Linear-Algebra
+## First Semester 
